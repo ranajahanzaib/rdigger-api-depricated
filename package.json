@@ -1,6 +1,7 @@
 {
   "name": "api.rdigger.com",
   "version": "0.0.1",
+  "private": true,
   "description": "Open Source APIs for product reviews and stats",
   "main": "index.js",
   "scripts": {
