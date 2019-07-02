@@ -1,0 +1,26 @@
+{
+  "name": "api.rdigger.com",
+  "version": "0.0.1",
+  "description": "Open Source APIs for product reviews and stats",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gcloud app deploy",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdigger/api.git"
+  },
+  "author": "Rana Jahanzaib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdigger/api/issues"
+  },
+  "homepage": "https://github.com/rdigger/api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase-admin": "^8.2.0",
+    "forcedomain": "^1.0.1"
+  }
+}
