@@ -22,6 +22,6 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "firebase-admin": "^8.2.0",
-    "forcedomain": "^1.0.1"
+    "forcedomain": "^2.0.0"
   }
 }
